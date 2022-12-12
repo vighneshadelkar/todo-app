@@ -41,7 +41,6 @@ header{
     padding: 10px 20px;
     width: 80vw;
     height: 50px;
-    overflow-x: scroll;
 }
 #list-div{
     display: flex;
